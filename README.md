@@ -1,1 +1,1 @@
-# Snake
+# ConsoleSnake
